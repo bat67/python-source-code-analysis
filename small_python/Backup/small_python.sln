@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "samll_python", "samll_python.vcproj", "{CE93E66B-1A83-4AEB-850A-7E07AF661E62}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CE93E66B-1A83-4AEB-850A-7E07AF661E62}.Debug.ActiveCfg = Debug|Win32
+		{CE93E66B-1A83-4AEB-850A-7E07AF661E62}.Debug.Build.0 = Debug|Win32
+		{CE93E66B-1A83-4AEB-850A-7E07AF661E62}.Release.ActiveCfg = Release|Win32
+		{CE93E66B-1A83-4AEB-850A-7E07AF661E62}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
