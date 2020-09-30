@@ -1,0 +1,12 @@
+#compile
+Win32:
+	利用VC工程文件进行编译
+	
+Linux:
+	./make
+	
+#usage
+将生成的可执行文件拷贝到bin目录下，然后将待解析的python文件，比如demo.py也拷贝到bin目录下，
+然后执行：
+python to_xml.py demo.py
+即可得到结果文件：demo.xml
